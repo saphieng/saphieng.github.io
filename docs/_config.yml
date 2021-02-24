@@ -1,6 +1,6 @@
-site: Index Jekyll Theme
+site: SAPHI Documentation
 
-url: https://index.jekyllthemes.io
+url: https://docs.saphi.engineering
 baseurl: 
 
 collections:
