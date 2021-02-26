@@ -8,7 +8,7 @@ featured_image: /images/demo/demo-landscape.jpg
 ![](/images/demo/demo-landscape.jpg)
 
 ## Features
-
+# Heading 1 
 Index is packed with powerful features to showcase your work:
 
 * Beautiful, minimal design
